@@ -1,0 +1,4 @@
+apple and apple is red
+banana is yellow
+i am using eclipse
+coding using javafx
